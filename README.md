@@ -17,7 +17,7 @@ A personal portfolio website showcasing the work of **Hailemariam**, a fullstack
 
 ## Tech Stack
 
-- HTML5, CSS3, JavaScript <!-- add or remove: React, Node.js, Express, MongoDB, etc. -->
+- HTML5, CSS3, JavaScript,react,node..... <!-- add or remove: React, Node.js, Express, MongoDB, etc. -->
 
 ## Project Structure
 
